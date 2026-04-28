@@ -18,7 +18,7 @@
 <br>
 💻 Tech Stack:
 
-<p align="center">
+<p align="left">
 <img width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/358fc8cb-ae8d-43f9-b57c-4558e826dc75" /> 
 <img width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/0f37d062-6487-411c-ad81-6d79ea5760b8" /> 
 <img width="50" height="50" alt="Java" src="https://github.com/user-attachments/assets/097c8b57-72dd-409e-97ab-ac1df58addb9" />
