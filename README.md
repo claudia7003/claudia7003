@@ -18,7 +18,9 @@
 <br>
 💻 Tech Stack:
 
+<p align="center">
 <img width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/358fc8cb-ae8d-43f9-b57c-4558e826dc75" /> <img width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/0f37d062-6487-411c-ad81-6d79ea5760b8" /> <img width="50" height="50" alt="Java" src="https://github.com/user-attachments/assets/097c8b57-72dd-409e-97ab-ac1df58addb9" /> <img width="50" height="50" alt="descarga" src="https://github.com/user-attachments/assets/eb01569a-4cd7-46c8-b221-567b5fe9dbf7" /> <img width="50" height="50" alt="descarga (1)" src="https://github.com/user-attachments/assets/cd449c83-6d74-4f77-835f-4fa7e647c81f" /> <img width="50" height="50" alt="descarga (2)" src="https://github.com/user-attachments/assets/5560b1a8-eac1-47f0-b8c0-57c9d647ca70" />
+</p>
 
 
 
