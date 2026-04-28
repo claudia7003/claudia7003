@@ -9,5 +9,4 @@
 
 📚 Actualmente sigo ampliando mis conocimientos, explorando nuevas tecnologías y buscando maneras de aportar valor a través del código.
 
-✨ Bienvenido/a a mi espacio, donde comparto proyectos, ideas y parte de mi camino como desarrolladora.
 
