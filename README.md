@@ -6,9 +6,9 @@
 💻 Disfruto creando soluciones, aprendiendo nuevas herramientas y enfrentándome a retos que me permitan crecer tanto a nivel profesional como personal. Para mí, cada proyecto es una oportunidad de mejorar, experimentar y seguir desarrollando mis habilidades.
 
 
-<div style="display: flex; justify-content: center;">
-<img width="220" height="196" alt="programming-computer-frog" src="https://github.com/user-attachments/assets/9e4bace0-dd70-4006-9636-5039a1e08004" />
-</div>
+
+<img text-align: center width="220" height="196" alt="programming-computer-frog" src="https://github.com/user-attachments/assets/9e4bace0-dd70-4006-9636-5039a1e08004" />
+
 
 
 🚀 Me caracterizo por ser una persona curiosa, constante y siempre abierta a aprender cosas nuevas. La tecnología está en constante evolución, y eso es precisamente lo que más me motiva.
