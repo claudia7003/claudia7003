@@ -17,16 +17,12 @@
 <hr>
 <br>
 💻 Tech Stack:
-<div align="center">
-<img width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/d2f67831-287e-43e2-80b8-2cd672ce2c31" /> <br>
-<img width="50" height="50" alt="Java" src="https://github.com/user-attachments/assets/c4654ec1-3532-4519-b133-139fd162dff0" /> <br>
-<img width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/afb3114e-dee7-4638-af46-30ff5410ac15" /> <br>
-<img width="50" height="50" alt="descarga" src="https://github.com/user-attachments/assets/1d1536e8-a71a-47d7-8262-c907db270bc4" /> <br>
-<img width="50" height="50" alt="descarga (2)" src="https://github.com/user-attachments/assets/c186cbcf-30e9-4639-a332-ee9c162bb4a1" /> <br>
-<img width="50" height="50" alt="descarga (1)" src="https://github.com/user-attachments/assets/42061736-44c8-4191-89ec-c234a8f01337" />
-
-</div>
-<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,docker,vim" /> <br>
+    <img src="https://skillicons.dev/icons?i=java,linux,mysql,ubuntu,vscode,wordpress" />
+  </a>
+</p>
 
 
 
